@@ -1,0 +1,10 @@
+Package: app.hark.siri
+Name: HarkSiri
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Hold the Home button to talk to Hark (Claude) instead of Siri. Falls back to Siri on the lock screen or when Hark isn't installed.
+Maintainer: maxxponyata-sys
+Author: maxxponyata-sys
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 10.0)
+Recommends: app.hark.ios10

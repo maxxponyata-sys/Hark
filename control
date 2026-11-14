@@ -1,0 +1,10 @@
+Package: app.hark.ios10
+Name: Hark
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Claude voice assistant for iOS 10. Knows your device status; pair with HarkSiri to replace Siri.
+Maintainer: maxxponyata-sys
+Author: maxxponyata-sys
+Section: Utilities
+Depends: firmware (>= 10.0)
+Icon: file:///Applications/Hark.app/AppIcon60x60@2x.png

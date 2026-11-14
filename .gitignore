@@ -1,0 +1,7 @@
+.theos/
+packages/
+tweak/.theos/
+tweak/packages/
+dist/
+*.dSYM
+.DS_Store
